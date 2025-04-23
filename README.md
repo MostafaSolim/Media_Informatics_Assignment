@@ -1,1 +1,1 @@
-# Media_Informatics_Assignment
+# Media Informatics Assignment
