@@ -76,3 +76,6 @@ Server/.env
 Thumbs.db
 
 .png
+.mp4
+.wav
+.mp3
